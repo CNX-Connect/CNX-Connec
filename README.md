@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="./assets/banner-cnx-connect.png" alt="CNX Connect Banner" width="100%" />
+<img src="assetsCNX/bannerPrincipal.png" alt="CNX Connect Banner" width="100%" />
 
 <br/>
-
-# CNX Connect
-
-### Tecnologia, automação e soluções digitais para conectar negócios ao futuro.
-
 <br/>
 
 ![Status](https://img.shields.io/badge/status-em%20desenvolvimento-7B2CFF?style=for-the-badge)
@@ -97,8 +92,8 @@ A CNX nasce com o propósito de unir tecnologia, criatividade e estratégia para
     <td align="center">
       <h3>Marcos Simões</h3>
       <p>Full Stack Developer</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+      <a href="https://github.com/DevWizardMarcos">
+        <img src="https://github.com/DevWizardMarcos" />
       </a>
       <br/>
       <a href="#">
