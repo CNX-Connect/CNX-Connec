@@ -89,47 +89,47 @@ A CNX nasce com o propósito de unir tecnologia, criatividade e estratégia para
 
 <table>
   <tr>
-    <td align="center">
+    <td align="center" width="25%">
       <h3>Marcos Simões</h3>
       <p>Full Stack Developer</p>
       <a href="https://github.com/DevWizardMarcos">
-        <img src="https://github.com/DevWizardMarcos" />
+        <img src="assetsCNX/Marcos.png" width="180" height="180" style="object-fit: cover; border-radius: 12px;" />
       </a>
       <br/>
-      <a href="#">
+      <a href="https://www.linkedin.com/in/marcos-simoes-ms/">
         <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
-    <td align="center">
-      <h3>Nome do Fundador 2</h3>
-      <p>Área de atuação</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+    <td align="center" width="25%">
+      <h3>Gabriel Souto</h3>
+      <p>Full Stack Developer</p>
+      <a href="https://github.com/GabrielSouto19">
+        <img src="assetsCNX/Gabriel.png" width="180" height="180" style="object-fit: cover; border-radius: 12px;" />
       </a>
       <br/>
-      <a href="#">
+      <a href="https://www.linkedin.com/in/gabriel-silva-b91943226/?skipRedirect=true">
         <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
-    <td align="center">
-      <h3>Nome do Fundador 3</h3>
-      <p>Área de atuação</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+    <td align="center" width="25%">
+      <h3>Maria Eduarda</h3>
+      <p>DevOps Engineer & Cloud Specialist</p>
+      <a href="https://github.com/Dudainfinity">
+        <img src="assetsCNX/Maria Eduarda.png" width="180" height="180" style="object-fit: cover; border-radius: 12px;" />
       </a>
       <br/>
-      <a href="#">
+      <a href="https://www.linkedin.com/in/mariaeduardaengsoftware/?skipRedirect=true">
         <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
-    <td align="center">
-      <h3>Nome do Fundador 4</h3>
-      <p>Área de atuação</p>
-      <a href="#">
-        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+    <td align="center" width="25%">
+      <h3>Pablo Martins</h3>
+      <p>Desenvolvedor Full Stack</p>
+      <a href="https://github.com/PabloMartins031">
+        <img src="assetsCNX/Pablo.PNG" width="180" height="180" style="object-fit: cover; border-radius: 12px;" />
       </a>
       <br/>
-      <a href="#">
+      <a href="https://www.linkedin.com/in/pablodevfullstack/?skipRedirect=true">
         <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
       </a>
     </td>
@@ -162,3 +162,4 @@ cnx-connect/
 ├── sistemas-web
 ├── inteligencia-artificial
 └── produtos-digitais
+```
