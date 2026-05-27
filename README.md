@@ -1,4 +1,169 @@
-# Welcome to your organization's demo respository
-This code repository (or "repo") is designed to demonstrate the best GitHub has to offer with the least amount of noise.
+<div align="center">
 
-The repo includes an `index.html` file (so it can render a web page), two GitHub Actions workflows, and a CSS stylesheet dependency.
+<img src="./assets/banner-cnx-connect.png" alt="CNX Connect Banner" width="100%" />
+
+<br/>
+
+# CNX Connect
+
+### Tecnologia, automação e soluções digitais para conectar negócios ao futuro.
+
+<br/>
+
+![Status](https://img.shields.io/badge/status-em%20desenvolvimento-7B2CFF?style=for-the-badge)
+![Tecnologia](https://img.shields.io/badge/tecnologia-soluções%20digitais-7B2CFF?style=for-the-badge)
+![Automação](https://img.shields.io/badge/automação-inteligente-7B2CFF?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-inovação-7B2CFF?style=for-the-badge)
+
+</div>
+
+---
+
+## Sobre a CNX Connect
+
+A **CNX Connect** é uma empresa de tecnologia focada em criar soluções digitais modernas, inteligentes e estratégicas.
+
+Nosso objetivo é conectar ideias, negócios e pessoas por meio de desenvolvimento web, automação, inteligência artificial, design e estratégias digitais.
+
+Trabalhamos para transformar necessidades reais em soluções funcionais, escaláveis e visualmente marcantes.
+
+---
+
+## Nossa Essência
+
+> **Conectando ideias. Construindo soluções. Gerando impacto.**
+
+A CNX nasce com o propósito de unir tecnologia, criatividade e estratégia para entregar projetos que geram valor real.
+
+---
+
+## O que fazemos
+
+- Desenvolvimento de sites e landing pages
+- Desenvolvimento de sistemas web
+- Automações de processos
+- Integrações com APIs
+- Soluções com Inteligência Artificial
+- Dashboards e painéis administrativos
+- UI/UX Design
+- Marketing digital e presença online
+- Estruturação de produtos digitais
+
+---
+
+## Áreas de atuação
+
+<div align="center">
+
+| Desenvolvimento | Automação | Inteligência Artificial |
+|---|---|---|
+| Sites, sistemas e aplicações web | Fluxos inteligentes e processos automatizados | Assistentes, chatbots e soluções com IA |
+
+| Design & Experiência | Integrações | Estratégia Digital |
+|---|---|---|
+| Interfaces modernas e funcionais | APIs, ferramentas e plataformas | Posicionamento, campanhas e soluções digitais |
+
+</div>
+
+---
+
+## Tecnologias e Ferramentas
+
+<div align="center">
+
+![HTML5](https://img.shields.io/badge/HTML5-111111?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-111111?style=for-the-badge&logo=css3&logoColor=1572B6)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge&logo=nextdotjs&logoColor=FFFFFF)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge&logo=nodedotjs&logoColor=339933)
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge&logo=python&logoColor=3776AB)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge&logo=fastapi&logoColor=009688)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge&logo=postgresql&logoColor=4169E1)
+![Figma](https://img.shields.io/badge/Figma-111111?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![GitHub](https://img.shields.io/badge/GitHub-111111?style=for-the-badge&logo=github&logoColor=FFFFFF)
+
+</div>
+
+---
+
+## Fundadores
+
+<div align="center">
+
+<table>
+  <tr>
+    <td align="center">
+      <h3>Marcos Simões</h3>
+      <p>Full Stack Developer</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Nome do Fundador 2</h3>
+      <p>Área de atuação</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Nome do Fundador 3</h3>
+      <p>Área de atuação</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+    <td align="center">
+      <h3>Nome do Fundador 4</h3>
+      <p>Área de atuação</p>
+      <a href="#">
+        <img src="https://img.shields.io/badge/GitHub-Perfil-7B2CFF?style=for-the-badge&logo=github&logoColor=white" />
+      </a>
+      <br/>
+      <a href="#">
+        <img src="https://img.shields.io/badge/LinkedIn-Conectar-7B2CFF?style=for-the-badge&logo=linkedin&logoColor=white" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## Nossos Valores
+
+- **Inovação:** buscamos soluções modernas e eficientes.
+- **Conexão:** aproximamos tecnologia, pessoas e negócios.
+- **Criatividade:** criamos experiências digitais com identidade.
+- **Estratégia:** cada projeto precisa ter propósito e direção.
+- **Impacto:** entregamos soluções com valor prático e resultado real.
+
+---
+
+## Projetos
+
+Em breve, esta seção reunirá os principais projetos desenvolvidos pela CNX Connect.
+
+```bash
+cnx-connect/
+├── websites
+├── landing-pages
+├── automacoes
+├── sistemas-web
+├── inteligencia-artificial
+└── produtos-digitais
